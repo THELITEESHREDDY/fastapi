@@ -1,6 +1,8 @@
 task management app(src)
 |
 |->main.py
-|-> user accound
+|-> user account
 |-> tasks
 |-> utils (helper functions)
+
+
